@@ -1,0 +1,11 @@
+.col-md-2{
+	width: 14.25%;
+}
+.grid1 .col-md-1{
+	width: 5%;
+}
+.btn-info:hover {
+    color: #fff;
+    background-color: #9C27B0;
+    border-color: #9C27B0;
+}
